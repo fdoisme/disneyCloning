@@ -1,0 +1,254 @@
+{
+    "User":[
+        {
+            "username": "admin",
+            "email": "admin@mail.com",
+            "password": "123456",
+            "role": "admin",
+            "phoneNumber": "08123456789",
+            "address": "Jalan jalan"
+        }
+    ],
+    "Movie": [
+        {
+            "title": "Wish",
+            "slug": "wish",
+            "synopsis": "Walt Disney Animation Studios “Wish” adalah komedi musikal terbaru dari Walt Disney Animation Studios yang mengajak penonton untuk mengikuti petualangan Asha, remaja perempuan yang berpendirian kuat dan cerdas dari kerajaan Rosas. Asha membuat sebuah permintaan luar biasa yang dikabulkan oleh energi kosmik— Sebuah bola kecil dengan kekuatan yang tak terbatas bernama Star. Bersama, Asha dan Star berusaha untuk menghadapi musuh paling tangguh— Raja Magnifico sang penguasa Rosas— Untuk menyelamatkan rakyat dan membuktikan jika keinginan kuat dari seseorang yang pemberani bisa terwujud saat dipadukan dengan keajaiban.",
+            "trailerUrl": "https://www.disney.id/disney-s-wish-official-trailer",
+            "imgUrl": "https://lumiere-a.akamaihd.net/v1/images/di_bioskop_november_2023_be68b70f.jpeg",
+            "rating": 10,
+            "genreId": 4,
+            "auhtorId": 1,
+            "categoryId": 1,
+            "bannerUrl": "https://lumiere-a.akamaihd.net/v1/images/pp_disney_wish_herobanner_799_3b488628.jpeg?region=0,0,2048,878"
+        },
+        {
+            "title": "The Marvels",
+            "slug": "the-marvels",
+            "synopsis": "Di film “The Marvels” dari Marvel Studios, Carol Danvers alias Captain Marvel telah merebut kembali identitasnya dari tirani Kree dan membalas dendam pada Supreme Intelligence. Namun konsekuensi yang tak diinginkan membuat Carol harus memikul beban ketidakstabilan alam semesta. Ketika tugasnya mengirimnya ke lubang cacing yang aneh sehingga terhubung dengan seorang revolusioner Kree, kekuatannya terjalin dengan Kamala Khan alias Ms. Marvel, seorang penggemar berat dari Jersey City, dan Captain Monica Rambeau keponakannya yang telah lama tak bertemu, kini seorang astronot S.A.B.E.R. Trio yang tak terduga ini harus berkolaborasi dan belajar bekerja sama untuk menyelamatkan alam semesta sebagai “The Marvels”. Film ini dibintangi oleh Brie Larson, Teyonah Parris, Iman Vellani, Samuel L. Jackson, Zawe Ashton, dan Park Seo-joon. Disutradarai Nia DaCosta dan diproduseri Kevin Feige. Louis D'Esposito, Victoria Alonso, Mary Livanos, dan Matthew Jenkins menyandang sebagai produser eksekutif. Skenarionya ditulis oleh Megan McDonnell, Nia DaCosta, Elissa Karasik, dan Zeb Wells.",
+            "trailerUrl": "https://www.youtube.com/watch?v=D8Xzgee3PkY",
+            "imgUrl": "https://lumiere-a.akamaihd.net/v1/images/56245l15_goat_indonesia_apac_poster_1sht_f6a2a3d0.jpeg",
+            "rating": 10,
+            "genreId": 1,
+            "auhtorId": 1,
+            "categoryId": 1,
+            "bannerUrl": "https://lumiere-a.akamaihd.net/v1/images/pp_themarvels_herobanner_1571_v2_5331e890.jpeg?region=0,0,2048,878"
+        },
+        {
+            "title": "Haunted Mansion",
+            "slug": "haunted-mansion",
+            "synopsis": "Inspired by the classic theme park attraction, “Haunted Mansion” is about a woman and her son who enlist a motley crew of so-called spiritual experts to help rid their home of supernatural squatters.",
+            "trailerUrl": "https://video.disney.id/haunted-mansion-official-teaser-trailer-5f66f03d602b7ebd6b4f2a72",
+            "imgUrl": "https://lumiere-a.akamaihd.net/v1/images/hauntedmansion-teaser-poster_7416df9c.jpeg",
+            "rating": 10,
+            "genreId": 1,
+            "auhtorId": 1,
+            "categoryId": 1,
+            "bannerUrl": "https://lumiere-a.akamaihd.net/v1/images/pp_disneymovies_hauntedmansion_herobanner_1617_34d3fb5a.jpeg?region=0,0,2048,878"
+        },
+        {
+            "title": "Guardians of the Galaxy Vol. 3",
+            "slug": "guardians-of-the-galaxy-vol-3",
+            "synopsis": "In Marvel Studios' “Guardians of the Galaxy Vol. 3” our beloved band of misfits are looking a bit different these days. Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them. James Gunn writes and directs “Guardians of the Galaxy Vol. 3,” which stars Chris Pratt, Zoe Saldana, Dave Bautista, Karen Gillan, Pom Klementieff, featuring Vin Diesel as Groot, Bradley Cooper as Rocket, Sean Gunn, Chukwudi Iwuji, Will Poulter and Maria Bakalova. Kevin Feige is the producer and Louis D'Esposito, Victoria Alonso, Nikolas Korda, Simon Hatt and Sara Smith serve as executive producers.",
+            "trailerUrl": "https://www.youtube.com/watch?v=JqcncLPi9zw",
+            "imgUrl": "https://lumiere-a.akamaihd.net/v1/images/id-guardiansofthegalaxy-vol3-payoffposter_6ba5c28b.jpeg",
+            "rating": 10,
+            "genreId": 2,
+            "auhtorId": 1,
+            "categoryId": 1,
+            "bannerUrl": "https://lumiere-a.akamaihd.net/v1/images/pp_disneymovies_guardiansofthegalaxy3_herobanner_1194_afaa1b41.jpeg?region=0,0,2048,878"
+        },
+        {
+            "title": "Indiana Jones and the Dial of Destiny",
+            "slug": "indiana-jones-and-the-dial-of-destiny",
+            "synopsis": "Harrison Ford returns to the role of the legendary hero archaeologist for this fifth installment of the iconic franchise. Starring along with Ford are Phoebe Waller-Bridge (“Fleabag”), Antonio Banderas (“Pain and Glory”), John Rhys-Davies (“Raiders of the Los Ark”), Shaunette Renee Wilson (“Black Panther”), Thomas Kretschmann (“Das Boot”), Toby Jones (“Jurassic World: Fallen Kingdom”), Boyd Holbrook (“Logan”), Olivier Richters (“Black Widow”), Ethann Isidore (“Mortel”) and Mads Mikkelsen (“Fantastic Beasts: The Secrets of Dumbledore”). Directed by James Mangold (“Ford v Ferrari,” “Logan”), the film is produced by Kathleen Kennedy, Frank Marshall and Simon Emanuel, with Steven Spielberg and George Lucas serving as executive producers. John Williams, who has scored each Indy adventure since the original \"Raiders of the Lost Ark\" in 1981, is once again composing the score.",
+            "trailerUrl": "https://www.youtube.com/watch?v=eQfMbSe7F2g",
+            "imgUrl": "https://lumiere-a.akamaihd.net/v1/images/sgph_-_ij5_poster_0000_01_plt_intlpayoff_1sht_eng-min_f7f36980.jpeg",
+            "rating": 10,
+            "genreId": 3,
+            "auhtorId": 1,
+            "categoryId": 1,
+            "bannerUrl": "https://lumiere-a.akamaihd.net/v1/images/ij5_desktop_hero_1600x686_36f1aa5c.jpeg?region=0,0,1600,686"
+        },
+        {
+            "title": "Ant-Man and the Wasp: Quantumania",
+            "slug": "ant-man-and-the-wasp:-quantumania",
+            "synopsis": "In the film, which officially kicks off phase 5 of the Marvel Cinematic Universe, Super-Hero partners Scott Lang (Paul Rudd) and Hope Van Dyne (Evangeline Lilly) return to continue their adventures as Ant-Man and The Wasp. Together, with Hope's parents Hank Pym (Michael Douglas) and Janet Van Dyne (Michelle Pfeiffer), the family finds themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought was possible. Jonathan Majors joins the adventure as Kang.",
+            "trailerUrl": "https://video.disney.id/marvel-studios-ant-man-and-the-wasp-quantumania-official-trailer-5ebe69220b932ebd6b4f2a72",
+            "imgUrl": "https://lumiere-a.akamaihd.net/v1/images/ant-man-andthewasp-poster-en_72ef8798.jpeg",
+            "rating": 10,
+            "genreId": 2,
+            "auhtorId": 1,
+            "categoryId": 1,
+            "bannerUrl": "https://lumiere-a.akamaihd.net/v1/images/pp_antmanquantumania_herobanner_1006_3eb572ca.jpeg?region=0,0,2048,878"
+        },
+        {
+            "title": "Elemental",
+            "slug": "elemental",
+            "synopsis": "Disney and Pixar's “Elemental” is an all-new, original feature film set in Element City, where fire-, water-, land- and air residents live together. The story introduces Ember, a tough, quick-witted and fiery young woman, whose friendship with a fun, sappy, go-with-the-flow guy named Wade challenges her beliefs about the world they live in.",
+            "trailerUrl": "https://video.disney.id/elemental-teaser-trailer-5f0430399e9f1ebd6b4f2a72",
+            "imgUrl": "https://lumiere-a.akamaihd.net/v1/images/elemental-poster-id_8425eb19.jpeg",
+            "rating": 10,
+            "genreId": 4,
+            "auhtorId": 1,
+            "categoryId": 1,
+            "bannerUrl": "https://lumiere-a.akamaihd.net/v1/images/pp_disney_elemental_herobanner_793_5133b183.jpeg?region=0,0,2048,878"
+        },
+        {
+            "title": "LITTLE MERMAID, THE",
+            "slug": "little-mermaid,-the",
+            "synopsis": "\"The Little Mermaid\" is the beloved story of Ariel, a beautiful and spirited young mermaid with a thirst for adventure. The youngest of King Triton's daughters and the most defiant, Ariel longs to find out more about the world beyond the sea and, while visiting the surface, falls for the dashing Prince Eric. While mermaids are forbidden to interact with humans, Ariel must follow her heart. She makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land but ultimately places her life - and her father's crown - in jeopardy.",
+            "trailerUrl": "https://video.disney.id/the-little-mermaid-official-teaser-trailer",
+            "imgUrl": "https://lumiere-a.akamaihd.net/v1/images/poster-id-payoff_ce62087b.jpeg",
+            "rating": 10,
+            "genreId": 5,
+            "auhtorId": 1,
+            "categoryId": 1,
+            "bannerUrl": "https://lumiere-a.akamaihd.net/v1/images/pp_disneymovies_thelittlemermaid_desktop_banner_796_01990fda.jpeg?region=0,0,2048,878"
+        },
+        {
+            "title": "The Creator",
+            "slug": "the-creator",
+            "synopsis": "Amidst a future war between the human race and the forces of artificial intelligence, Joshua (Washington), a hardened ex-special forces agent grieving the disappearance of his wife (Chan), is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war… and mankind itself. Joshua and his team of elite operatives journey across enemy lines, into the dark heart of AI-occupied territory… only to discover the world-ending weapon he's been instructed to destroy is an AI in the form of a young child.",
+            "trailerUrl": "https://www.youtube.com/watch?v=dk3PX7VLAvw",
+            "imgUrl": "https://lumiere-a.akamaihd.net/v1/images/the_creator_-_poster_0ab00efa.jpeg",
+            "rating": 10,
+            "genreId": 2,
+            "auhtorId": 1,
+            "categoryId": 2,
+            "bannerUrl": "https://lumiere-a.akamaihd.net/v1/images/pp_thecreator_herobanner_2004_f4ac483c.jpeg?region=0,0,2048,878"
+        },
+        {
+            "title": "A Haunting in Venice",
+            "slug": "a-haunting-in-venice",
+            "synopsis": "\"A Haunting in Venice\" is set in eerie, post-World War II Venice on All Hallows' Eve, “A Haunting in Venice” is a terrifying mystery featuring the return of the celebrated sleuth, Hercule Poirot. Now retired and living in self-imposed exile in the world's most glamorous city, Poirot reluctantly attends a séance at a decaying, haunted palazzo. When one of the guests is murdered, the detective is thrust into a sinister world of shadows and secrets.",
+            "trailerUrl": "https://youtu.be/oRCKIP5paEU",
+            "imgUrl": "https://lumiere-a.akamaihd.net/v1/images/sg_my_ph_cf81b601.jpeg",
+            "rating": 10,
+            "genreId": 3,
+            "auhtorId": 1,
+            "categoryId": 2,
+            "bannerUrl": "https://lumiere-a.akamaihd.net/v1/images/pp_ahauntinginvenice_herobanner_1890_eac983f7.jpeg?region=0,0,2048,878"
+        },
+        {
+            "title": "Titanic 25th Anniversary",
+            "slug": "titanic-25th-anniversary",
+            "synopsis": "Untuk merayakan hari jadinya yang ke-25, versi remaster dari Titanic pemenang multi-Academy Award® dari James Cameron akan dirilis ulang ke bioskop dalam 3D. Film yang dibintangi oleh pemenang Oscar® Leonardo DiCaprio dan Kate Winslet ini memberikan kisah roman epik penuh aksi yang berlatarkan pelayaran perdana naas Titanic yang “tidak dapat tenggelam”, yang pada masa itu merupakan objek bergerak terbesar yang pernah dibuat. Titanic memenangkan 11 Academy Awards® termasuk Film Terbaik, Sutradara Terbaik, Sinematografi Terbaik, Penyuntingan Film Terbaik, Penyutradaraan Seni - Penyutradaraan Set Terbaik, Desain Kostum Terbaik, Skor Drama Asli Terbaik, Lagu Orisinil Terbaik, Suara Terbaik, Efek Suara Terbaik, Pengeditan dan Efek Visual Terbaik. Setelah dirilis pertama kali pada tahun 1997, film ini menjadi juara box office global #1 sepanjang masa dan saat ini menjadi film terlaris ketiga di seluruh dunia.",
+            "trailerUrl": "",
+            "imgUrl": "https://lumiere-a.akamaihd.net/v1/images/titanic-25thanniversary-poster-generic_b4839897.jpeg?region=0%2C0%2C600%2C900",
+            "rating": 10,
+            "genreId": 3,
+            "auhtorId": 1,
+            "categoryId": 2,
+            "bannerUrl": "https://lumiere-a.akamaihd.net/v1/images/sea-titanic_rerelease_hero_final-id_5444bc35.jpeg?region=0,0,1920,800"
+        },
+        {
+            "title": "Avatar: The Way of Water",
+            "slug": "avatar:-the-way-of-water",
+            "synopsis": "Terjadi lebih dari satu dekade dari film pertama, Avatar: The Way of Water menceritakan tentang keluarga Sully, masalah yang mengikuti, kerelaan mereka menjaga satu sama lain tetap aman, pertempuran yang mereka lakukan untuk bertahan hidup, dan tragedi yang terjadi.\n Disutradarai oleh James Cameron dan diproduseri oleh Cameron dan Jon Landau, film ini dibintangi oleh Zoe Saldana, Sam Worthington, Sigourney Weaver, Stephen Lang, Cliff Curtis, Joel David Moore, CCH Pounder, Edie Falco, Jemaine Clement, dan Kate Winslet.\nFilm lanjutan dari James Cameron Avatar, film terlaris sepanjang masa, akan datang ke bioskop pada 14 Desember 2022.",
+            "trailerUrl": "https://www.20thcenturystudios.asia/avatar-the-way-of-water-teaser-trailer-id",
+            "imgUrl": "https://lumiere-a.akamaihd.net/v1/images/avatar-wayofwater-id_afe7ec94.jpeg?region=0%2C0%2C600%2C900",
+            "rating": 10,
+            "genreId": 5,
+            "auhtorId": 1,
+            "categoryId": 2,
+            "bannerUrl": "https://lumiere-a.akamaihd.net/v1/images/sea-avatar-thewayofwater-herobanner02_f30c3bb1.jpeg?region=0,0,2048,878"
+        },
+        {
+            "title": "The Menu",
+            "slug": "the-menu",
+            "synopsis": "A couple (Anya Taylor-Joy and Nicholas Hoult) travels to a coastal island to eat at an exclusive restaurant where the chef (Ralph Fiennes) has prepared a lavish menu, with some shocking surprises.",
+            "trailerUrl": "https://video.disney.sg/the-menu-official-trailer-searchlight-pictures-5e9553c1fc0f3ebd6b4f2a72",
+            "imgUrl": "https://lumiere-a.akamaihd.net/v1/images/d2d22ff4dc36413529c1bb626dda24c6_2764x4096_6b3372a8.jpeg",
+            "rating": 10,
+            "genreId": 1,
+            "auhtorId": 1,
+            "categoryId": 2,
+            "bannerUrl": "https://lumiere-a.akamaihd.net/v1/images/the_menu3_r_a25ee446.jpeg?region=0,0,2048,878"
+        }
+    ],
+    "Genre": [
+        {
+            "name": "Action"
+        },
+        {
+            "name": "Science Fiction"
+        },
+        {
+            "name": "Adventure"
+        },
+        {
+            "name": "Animation"
+        },
+        {
+            "name": "Fantasy"
+        }
+    ],
+    "Casts": [
+        {
+            "movieId": "1",
+            "name": "Ariana DeBose",
+            "profilePict": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ariana_DeBose_for_Bibhu_Mohapatra%2C_September_2020.png"
+        },
+        {
+            "movieId": "2",
+            "name": "Brie Larson",
+            "profilePict": "https://upload.wikimedia.org/wikipedia/commons/4/40/Captain_Marvel_trailer_at_the_National_Air_and_Space_Museum_4_%28cropped%29.jpg"
+        },
+        {
+            "movieId": "3",
+            "name": "LaKeith Stanfield",
+            "profilePict": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Keith_Stanfield_by_Gage_Skidmore.jpg"
+        },
+        {
+            "movieId": "4",
+            "name": "Chris Pratt",
+            "profilePict": "https://upload.wikimedia.org/wikipedia/commons/9/99/Chris_Pratt_2018.jpg"
+        },
+        {
+            "movieId": "5",
+            "name": "Harrison Ford",
+            "profilePict": "https://upload.wikimedia.org/wikipedia/commons/4/41/Harrison_Ford_2017_crop.jpg"
+        },
+        {
+            "movieId": "6",
+            "name": "Paul Rudd",
+            "profilePict": "https://upload.wikimedia.org/wikipedia/commons/9/92/Paul_Rudd_%28cropped%29_2.jpg"
+        },
+        {
+            "movieId": "7",
+            "name": "Leah Lewis",
+            "profilePict": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Leah_Lewis_%282019%29.jpg"
+        },
+        {
+            "movieId": "8",
+            "name": "Halle Bailey",
+            "profilePict": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Halle_Nov_2018_%28cropped%29.png"
+        },
+        {
+            "movieId": "9",
+            "name": "John David Washington",
+            "profilePict": "https://upload.wikimedia.org/wikipedia/commons/8/8a/John_David_Washington.png"
+        },
+        {
+            "movieId": "10",
+            "name": "Kenneth Branagh",
+            "profilePict": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KennethBranaghApr2011.jpg"
+        },
+        {
+            "movieId": "11",
+            "name": "Leonardo DiCaprio",
+            "profilePict": "https://upload.wikimedia.org/wikipedia/commons/4/46/Leonardo_Dicaprio_Cannes_2019.jpg"
+        },
+        {
+            "movieId": "12",
+            "name": "Sam Worthington",
+            "profilePict": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Sam_Worthington_2013.jpg"
+        },
+        {
+            "movieId": "13",
+            "name": "Ralph Fiennes",
+            "profilePict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo6rgLohloEKhB7e0voL7SkZRbOSxdCVxG3AGEGK6isrRIZACF"
+        }
+    ]
+}

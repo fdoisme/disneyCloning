@@ -1,0 +1,280 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.container {
+  display: flex;
+}
+.container-login{
+  background-image: url("https://img10.hotstar.com/image/upload/f_auto,q_90,w_2048/feature/onboarding/20-10-2023-id-background-desktop.png");
+}
+.login-wrapper{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.login{
+  width: 30%;
+  /* border: 3px solid white;
+  border-radius: 20px; */
+  padding: 50px;
+}
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+}
+.login-form p{
+  font-size: 4vw;
+  font-weight: 900;
+  color: white;
+}
+.login-form p img{
+  width: 10%;
+}
+.login-form form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  width: 100%;
+}
+.login-form form div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.login-form input{
+  height: 2em;
+  width: 80%;
+  background-color: transparent; /* Mengatur latar belakang elemen menjadi transparan */
+  border: 2px solid #ccc; /* Menambahkan border */
+  padding: 8px 20px 8px 20px; /* Menambahkan ruang di dalam elemen input */
+  color: white; 
+  font-size: large;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: 900;
+}
+.login-form form button{
+  padding: 10px;
+  border-radius: 10px;
+  font-size: x-large;
+}
+.login-form input::placeholder{
+  color: rgba(245, 245, 245, 0.783);
+}
+.login-form label{
+  font-size: x-large;
+  font-weight: 900;
+  color: white;
+}
+.container-sidebar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 20px 50px 20px;
+  width: 20%;
+  background-color: #0955dd;
+  min-height: 100vh;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  gap: 50px;
+}
+
+.sidebar-img {
+  display: flex;
+  justify-content: center;
+}
+
+.sidebar img {
+  width: 50%;
+}
+
+.navigation {
+  padding: 0 10% 0 10%;
+}
+
+.navigation-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.navigation-wrapper a, .navigation-wrapper p {
+  font-size: 1.5vw;
+  color: white;
+  font-weight: 900;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.container-movies {
+  padding: 100px 20px 50px 20px;
+}
+
+.movies {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.movies-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 2% 0 2%;
+  align-items: center;
+}
+
+.movies-header h1,
+.movies-header h3 {
+  display: inline;
+}
+
+.movies-header h3 {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  background-color: #0955dd;
+  border-radius: 10px;
+  padding: 9px 12px 9px 12px;
+  color: white;
+}
+
+.movies-table,
+.movies-table table {
+  width: 100%;
+}
+/* Create Table */
+.content-table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  min-width: 400px;
+  border-radius: 5px;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.content-table thead tr {
+  background-color: #0955dd;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+
+.content-table th,
+.content-table td {
+  padding: 12px 15px;
+}
+
+.content-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.content-table tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.content-table tbody tr:last-of-type {
+  border-bottom: 2px solid #0955dd;
+}
+/* END Create Table */
+.table-title {
+  width: 30%;
+}
+
+.table-details {
+  width: 15%;
+  text-align: center;
+}
+
+.table-rating,
+.table-trailer {
+  width: 7%;
+  text-align: center;
+}
+
+.table-trailer span,
+.table-action span,
+.table-details span{
+  font-size: x-large;
+  cursor: pointer;
+  align-items: center;
+}
+.table-rating span{
+  font-size: x-large;
+  align-items: center;
+}
+tbody tr .table-rating{
+  display: flex;
+  align-items: center;
+}
+tbody tr .table-action{
+  display: flex;
+  gap: 20px;
+}
+
+.register-table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  min-width: 400px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.register-table td {
+  padding: 20px 23px;
+  font-size: large;
+}
+
+.register-table tr {
+  border-bottom: 1px solid #dddddd;
+}
+.label-register{
+  width: 30%;
+}
+.input-register div{
+  width: 92%;
+}
+.register-table input{
+  width: 100%;
+  height: 1px;
+  padding: 20px 23px;
+}
+.p1{
+  font-size: larger;
+  font-weight: 900;
+}
+.register-foot{
+  display: flex;
+  justify-content: end;
+  padding-right: 5%;
+  gap: 30px;
+}
+.register-foot a{
+  display: flex;
+  text-decoration: none;
+  align-items: center;
+  gap: 5px;
+  background-color: #0955dd;
+  border-radius: 10px;
+  padding: 9px 12px 9px 12px;
+  color: white;
+}

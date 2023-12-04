@@ -1,0 +1,67 @@
+[
+    {
+        "movieId": "1",
+        "name": "Ariana DeBose",
+        "profilePict": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ariana_DeBose_for_Bibhu_Mohapatra%2C_September_2020.png"
+    },
+    {
+        "movieId": "2",
+        "name": "Brie Larson",
+        "profilePict": "https://upload.wikimedia.org/wikipedia/commons/4/40/Captain_Marvel_trailer_at_the_National_Air_and_Space_Museum_4_%28cropped%29.jpg"
+    },
+    {
+        "movieId": "3",
+        "name": "LaKeith Stanfield",
+        "profilePict": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Keith_Stanfield_by_Gage_Skidmore.jpg"
+    },
+    {
+        "movieId": "4",
+        "name": "Chris Pratt",
+        "profilePict": "https://upload.wikimedia.org/wikipedia/commons/9/99/Chris_Pratt_2018.jpg"
+    },
+    {
+        "movieId": "5",
+        "name": "Harrison Ford",
+        "profilePict": "https://upload.wikimedia.org/wikipedia/commons/4/41/Harrison_Ford_2017_crop.jpg"
+    },
+    {
+        "movieId": "6",
+        "name": "Paul Rudd",
+        "profilePict": "https://upload.wikimedia.org/wikipedia/commons/9/92/Paul_Rudd_%28cropped%29_2.jpg"
+    },
+    {
+        "movieId": "7",
+        "name": "Leah Lewis",
+        "profilePict": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Leah_Lewis_%282019%29.jpg"
+    },
+    {
+        "movieId": "8",
+        "name": "Halle Bailey",
+        "profilePict": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Halle_Nov_2018_%28cropped%29.png"
+    },
+    {
+        "movieId": "9",
+        "name": "John David Washington",
+        "profilePict": "https://upload.wikimedia.org/wikipedia/commons/8/8a/John_David_Washington.png"
+    },
+    {
+        "movieId": "10",
+        "name": "Kenneth Branagh",
+        "profilePict": "https://upload.wikimedia.org/wikipedia/commons/c/c7/KennethBranaghApr2011.jpg"
+    },
+    {
+        "movieId": "11",
+        "name": "Leonardo DiCaprio",
+        "profilePict": "https://upload.wikimedia.org/wikipedia/commons/4/46/Leonardo_Dicaprio_Cannes_2019.jpg"
+    },
+    {
+        "movieId": "12",
+        "name": "Sam Worthington",
+        "profilePict": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Sam_Worthington_2013.jpg"
+    },
+    {
+        "movieId": "13",
+        "name": "Ralph Fiennes",
+        "profilePict": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo6rgLohloEKhB7e0voL7SkZRbOSxdCVxG3AGEGK6isrRIZACF"
+    }
+]
